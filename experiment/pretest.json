@@ -3,41 +3,26 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. ",
+      "question": "1. On basis of what observation was the predator-prey relationship theory created?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Maternal effect",
+        "b": "Biogeochemical cycle",
+        "c": "Predator-prey cycle",
+        "d": "Natural selection"
       },
  
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },   
 
 
     {
-      "question": "2. :",
+      "question": "2. The most accurate model of predator-prey interaction, came from contributions from:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-
-
-    
-    {
-      "question": "3.  ",
-      "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Hodgkin-Huxley",
+        "b": "Lotka-Volterra",
+        "c": "Watson-Crick",
+        "d": "Decastrello-Sturli"
       },
       
       "correctAnswer": "b",
@@ -45,14 +30,29 @@
     },
 
 
+    
+    {
+      "question": "3. Pick the odd one out:",
+      "answers": {
+        "a": "Beavers-Mosses",
+        "b": "Bears-Fishes",
+        "c": "Pythons-Deers",
+        "d": "Venus fly trap-flies"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
  
     {
-      "question": "4. :",
+      "question": "4. All factors in nature are taken into consideration while studying predator-prey interaction using Lotka-Volterra Model:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "True",
+        "b": "False",
+        "c": "Neither true nor false",
+        "d": "Both can be possible"
       },
       
       "correctAnswer": "b",
@@ -64,10 +64,10 @@
     {
       "question": "5. ",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "True",
+        "b": "False",
+        "c": "Neither true nor false",
+        "d": "Both can be possible"
       },
      
       "correctAnswer": "b",
