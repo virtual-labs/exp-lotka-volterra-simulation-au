@@ -1,0 +1,77 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the primary objective of the Lotka–Volterra predator–prey model?",
+      "answers": {
+        "a": "To calculate the carrying capacity of predators",
+        "b": "To describe the interactions and population dynamics of predator and prey species",
+        "c": "To estimate the genetic diversity of prey populations",
+        "d": "To determine the migration rate of predators"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. According to predator–prey theory, what is the most likely consequence if the predator population decreases drastically?",
+      "answers": {
+        "a": "The prey population immediately becomes extinct.",
+        "b": "Predator reproduction increases immediately.",
+        "c": "The carrying capacity of the habitat decreases.",
+        "d": "The prey population is likely to increase due to reduced predation."
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    
+    {
+      "question": "3. According to the theory, predator and prey populations generally exhibit:",
+      "answers": {
+        "a": "Cyclical oscillations in population size",
+        "b": "Constant population sizes over time",
+        "c": "Independent population fluctuations",
+        "d": "Continuous exponential growth"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+ 
+    {
+      "question": "4. According to the Lotka–Volterra assumptions, predator reproduction is:",
+      "answers": {
+        "a": "Controlled by seasonal rainfall.",
+        "b": "Independent of prey availability.",
+        "c": "Determined only by carrying capacity",
+        "d": "Directly proportional to the amount of prey consumed."
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. According to the theory, why do predator populations usually decline after a prey population crash?",
+      "answers": {
+        "a": "Predators become more efficient at hunting.",
+        "b": "Food availability decreases, reducing predator survival and reproduction.",
+        "c": "Carrying capacity suddenly increases.",
+        "d": "Prey begin reproducing more rapidly"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

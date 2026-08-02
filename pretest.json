@@ -1,0 +1,77 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. On basis of what observation was the predator-prey relationship theory created?",
+      "answers": {
+        "a": "Maternal effect",
+        "b": "Biogeochemical cycle",
+        "c": "Predator-prey cycle",
+        "d": "Natural selection"
+      },
+ 
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. The most accurate model of predator-prey interaction, came from contributions from:",
+      "answers": {
+        "a": "Hodgkin-Huxley",
+        "b": "Lotka-Volterra",
+        "c": "Watson-Crick",
+        "d": "Decastrello-Sturli"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+    
+    {
+      "question": "3. Pick the odd one out:",
+      "answers": {
+        "a": "Beavers-Mosses",
+        "b": "Bears-Fishes",
+        "c": "Pythons-Deers",
+        "d": "Venus fly trap-flies"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+ 
+    {
+      "question": "4. All factors in nature are taken into consideration while studying predator-prey interaction using Lotka-Volterra Model:",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Neither true nor false",
+        "d": "Both can be possible"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. While studying predator-prey interaction using Lotka-Volterra model, we consider should have more than one predator and prey",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Neither true nor false",
+        "d": "Both can be possible"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
